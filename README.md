@@ -1,3 +1,3 @@
-# Platzi Scripts v1
+# Platzi Scripts v2
 
 Dummy tests are in `jenkins-tests`
